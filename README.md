@@ -1,4 +1,4 @@
-# GUI-Test-Mozilla
+# GUI-Test-Selenium
 UI Test by selenium(Python)
 
 # Description
