@@ -2,7 +2,7 @@
 UI Test by selenium(Python)
 
 # Description
-This tool is based on selenium webdriver. 
+MozillaというWebページのUIテストを行う。テストシナリオはGiven When Thenの作法に従う。
 
 # Usage
 ```
