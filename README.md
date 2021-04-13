@@ -1,4 +1,4 @@
-# Mozilla_Test2
+# GUI-Test-Mozilla
 UI Test by selenium(Python)
 
 # Description
